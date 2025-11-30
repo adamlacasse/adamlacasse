@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Adam LaCasse — Music Nerd Banner" />
+</p>
+
 # 👋 Hi, I'm Adam LaCasse
 
 **Senior Software Engineer · CS Grad Student · Relentless Music Nerd**
