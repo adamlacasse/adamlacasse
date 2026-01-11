@@ -6,60 +6,88 @@
 
 **Senior Software Engineer · CS Grad Student · Relentless Music Nerd**
 
-I build enterprise-scale web applications (Node.js, React, Java/Spring Boot, Python) and cloud-native services on AWS.  
-I’m also working toward my **Master of Science in Computer Science**, digging deeply into algorithms, discrete math, data modeling, and the theory that strengthens real-world engineering.
+🌐 **Portfolio & writing:** https://adamlacasse.dev
 
-Outside of code, I’m a lifelong music obsessive — the kind of person who can just as easily talk about Jack DeJohnette’s fusion period as the production quirks in Talking Heads’ _Little Creatures_.  
-I love blending that curiosity with technology, whether through side projects, metadata exploration, or building tools like **Freq Show** for fellow music geeks.
+I build enterprise-scale web applications and cloud-native services with a focus on **clarity, correctness, and long-term maintainability**. My professional work spans Node.js, React, Java/Spring Boot, Python, and AWS — often in environments where systems must scale to thousands of users and evolve safely over time.
+
+I’m also working toward a **Master of Science in Computer Science**, strengthening the theoretical foundations that support good engineering: algorithms, discrete math, data modeling, and systems thinking. I care deeply about understanding *why* things work — not just making them work.
+
+Outside of software, I’m a lifelong music obsessive — the kind of person who can happily debate Jack DeJohnette’s fusion era or the production choices on Talking Heads’ _Little Creatures_. I enjoy exploring the overlap between **music, data, and technology**, and building tools for people who share that curiosity.
 
 ---
 
 ## 🚀 What I Work With
 
-**Languages:**  
-JavaScript (ES6+), TypeScript, Python, Java, SQL  
+**Languages**  
+JavaScript (ES6+) · TypeScript · Python · Java · SQL
 
-**Frameworks & Tools:**  
+**Frameworks & Tools**  
 Node.js · React · Spring Boot · Express · Flask  
 PostgreSQL · MySQL · MongoDB  
 AWS Lambda · S3 · API Gateway  
-Docker · Git · CI/CD · Vercel  
+Docker · Git · CI/CD · Vercel
 
-**Interests:**  
-Distributed systems · Databases · Algorithms  
+**Interests**  
+Backend systems · Databases · Distributed systems  
+Algorithms · Data modeling  
 Music technology · Data-driven music discovery
 
 ---
 
 ## 🎧 Projects & Experiments
 
-### 🎪 **Freq Show**  
-A music-nerd app that digs into artist, album, and track metadata — built for people who read liner notes for fun.
+### 🎪 **Freq Show**
+A music-nerd application designed to explore artist, album, and track metadata — built for people who read liner notes for fun.
 
-### 🧰 **Engineering Utilities & Learning Projects**  
-Database design experiments, SQL procedures, algorithmic problem solving, scripting tools, and CS coursework.
+- Focused on rich metadata, search, and discovery
+- Designed with extensibility in mind for future data sources
+- A creative outlet that blends engineering with deep musical curiosity
 
-### 🌐 **Personal Portfolio**  
-My home on the web: **adamlacasse.dev** — fast, clean, and built to evolve with my work.
+---
+
+### 🌱 **NorthFlow**
+A mindfulness and gratitude check-in application built as part of my CS coursework, with an emphasis on **backend design and data integrity**.
+
+- Designed a normalized MySQL schema (3NF) with composite primary keys and foreign-key constraints
+- Implemented a clean data access layer (DAL) with consistent error handling
+- Wrote aggregate queries and stored procedures to summarize meaningful user data
+- Intentionally scoped the UI to keep the focus on database design and system structure
+
+NorthFlow reflects how I approach systems: deliberate tradeoffs, clear boundaries, and room to grow.
+
+---
+
+### 🧰 **Engineering Utilities & Learning Projects**
+A collection of smaller projects and experiments, including:
+
+- Database design exercises and schema evolution
+- SQL queries, views, and procedures
+- Algorithmic problem solving and analysis
+- Scripting tools and coursework supporting my CS master’s program
+
+These projects emphasize fundamentals, correctness, and learning through building.
 
 ---
 
 ## 📚 Current Focus
-- Advancing through my **CS master’s curriculum**  
-- Strengthening fundamentals in algorithms and discrete math  
-- Building reliable, scalable API-driven systems  
-- Exploring intersections of **music, data, and software**  
-- Creating side projects that scratch both the engineering and the musical itch
+
+- Progressing through my **CS master’s curriculum**
+- Strengthening fundamentals in **algorithms, discrete math, and data modeling**
+- Designing reliable, scalable, API-driven backend systems
+- Exploring the intersection of **music, data, and software**
+- Building side projects that balance engineering rigor with creative curiosity
+
+I’m especially interested in work involving **backend systems, databases, and thoughtful product engineering**.
 
 ---
 
 ## 🔗 Find Me Elsewhere
 
-### **ORCID**  
+### **ORCID**
 [![ORCID iD](https://img.shields.io/badge/ORCID-0009--0004--9664--1079-brightgreen.svg)](https://orcid.org/0009-0004-9664-1079)
 
-### **LinkedIn**  
-[linkedin.com/in/adamlacasse](https://linkedin.com/in/adamlacasse)
+### **LinkedIn**
+https://linkedin.com/in/adamlacasse
 
-### **Portfolio**  
-[adamlacasse.dev](https://adamlacasse.dev)
+### **Portfolio**
+https://adamlacasse.dev
