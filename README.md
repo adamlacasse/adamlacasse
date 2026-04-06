@@ -19,7 +19,7 @@ Outside of software, I’m a lifelong music obsessive — the kind of person who
 ## 🚀 What I Work With
 
 **Languages**  
-JavaScript (ES6+) · TypeScript · Python · Java · SQL
+JavaScript · TypeScript · Python · Java · SQL · Go
 
 **Frameworks & Tools**  
 Node.js · React · Spring Boot · Express · Flask  
