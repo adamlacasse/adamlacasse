@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Adam LaCasse
 
-**Senior Software Engineer & Tech Lead · M.S. in Computer Science (AI Concentration) · Relentless Music Nerd**
+**Principal Software Engineer & Tech Lead · M.S. in Computer Science (AI Concentration) · Relentless Music Nerd**
 
 I build enterprise-scale applications and applied AI tools with a focus on clarity, correctness, and long-term maintainability. I recently completed my **Master of Science in Computer Science** with an **AI concentration**.
 
